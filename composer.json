@@ -7,7 +7,7 @@
 		"php": ">=7.4"
 	},
 	"require-dev": {
-		"automattic/phpunit-select-config": "^1.0.10-alpha",
+		"automattic/phpunit-select-config": "^1.0.10",
 		"yoast/phpunit-polyfills": "^4.0.0"
 	},
 	"autoload": {
