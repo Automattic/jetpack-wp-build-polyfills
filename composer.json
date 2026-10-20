@@ -7,7 +7,7 @@
 		"php": ">=7.4"
 	},
 	"require-dev": {
-		"automattic/phpunit-select-config": "^1.0.11",
+		"automattic/phpunit-select-config": "^1.0.12-alpha",
 		"yoast/phpunit-polyfills": "^4.0.0"
 	},
 	"autoload": {
@@ -44,7 +44,6 @@
 	"minimum-stability": "dev",
 	"prefer-stable": true,
 	"extra": {
-		"autotagger": true,
 		"mirror-repo": "Automattic/jetpack-wp-build-polyfills",
 		"textdomain": "jetpack-wp-build-polyfills",
 		"changelogger": {
